@@ -1,0 +1,23 @@
+{
+  "name": "roboto-webfont",
+  "description": "Roboto web font, packaged for Bower",
+  "main": "font.css",
+  "keywords": [
+    "roboto",
+    "webfont",
+    "bower",
+	"css"
+  ],
+  "authors": [
+    "Soham Banerjee <soham@renderbit.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/soham2008xyz/roboto-webfont",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
